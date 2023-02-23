@@ -8,9 +8,7 @@
 ### Sobre mim
 [I'm Game Design, I develop in C# and I'm studying Java. I am currently working at @VituryStudios where i hold the position of CEO] (https://www.vitury.net/).
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+- [Courses](https:/senac.br) 👨🏼‍🏫 - Where I learned and still learning C#
+- [Website](https://vitury.net/) 💻 - Working on it.
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
