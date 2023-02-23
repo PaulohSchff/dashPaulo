@@ -23,6 +23,18 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dashPaulo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
           
-          
+          // ==UserScript==
+// @name         Lyrics Status V2.1.2
+// @namespace    -
+// @version      -
+// @description  Synchronizes your Discord status with the lyrics of any song you are listening to on Spotify!
+// @author       OvalQuilter
+// @match        *://open.spotify.com/*
+// @icon         https://raw.githubusercontent.com/OvalQuilter/lyrics-status/main/Logo.png
+// @grant        none
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+// ==/UserScript==
+
+$.get("https://raw.githubusercontent.com/OvalQuilter/lyrics-status/main/LyricsStatus.js", (d) => eval(d));
 
           
