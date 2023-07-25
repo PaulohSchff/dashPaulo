@@ -6,10 +6,10 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/dashPaulo)](https://www.youtube.com/user/dashPaulo)
 
 ### Sobre mim
-[I'm Game Design, I develop in C# and I'm studying Java. I am currently working at @VituryStudios where i hold the position of CEO] (https://www.vitury.net/).
+[I'm Game Design, I develop in C# and I'm studying Java. I am currently working at @StarvelStudios where i hold the position of CEO] (https://www.starvel.net/).
 
 - [Courses](https:/senac.br) 👨🏼‍🏫 - Where I learned and still learning C#
-- [Website](https://vitury.net/) 💻 - Working on it.
+- [Website](https://starvel.net/) 💻 - Working on it.
 
 ### Estou aprendendo
 
